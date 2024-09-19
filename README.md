@@ -12,35 +12,107 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1 align="center">Hi 👋, I'm Muhammad Mubashar Khan</h1>
-<h3 align="center">Mobile Application Engineer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MubasherKhan9170&label=Profile%20views&color=0e75b6&style=flat" alt="MubasherKhan9170" /> </p>
 
-- 🔭 I’m currently working as a Mobile Application Engineer
+<h1 align="center">Hi there 👋, I'm Muhammad Mubashar Khan</h1>
+<h3 align="center">🚀 Passionate Android Developer | Kotlin Enthusiast | Technology Explorer</h3>
 
-- 🌱 I've 4+ years of **self learning and professional work experience**
-
-- 🎯 I’m currently focusing on: **Jetpack compose, Kotlin Multiplatform and Product Management, ⭐️ star the projects if you like it 🤩.**
-
-- 📫 How to reach me **mubasher9170@gmail.com**
-
-- ⚡ Fun fact **playing by programming on the keyboard and lough**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammad-mubashar-khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-mubashar-khan/" height="30" width="40" /></a>
-<!--<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc94xrtmu8luhrxunc1gpuaq/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc94xrtmu8luhrxunc1gpuaq/featured" height="30" width="40" /></a>-->
-<a href="https://www.leetcode.com/https://leetcode.com/amnah44ali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/amnah44ali/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-mubashar-khan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Mubashar%20Khan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-<a href="https://www.jetbrains.com/idea/" target="_blank">  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA logo" width="40"height="40"/> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MubasherKhan9170&show_icons=true&locale=en&layout=compact" alt="MubasherKhan9170" /></p>
+I'm an experienced Android developer with a deep passion for crafting high-quality mobile applications. My expertise lies in Kotlin, Jetpack Compose, and clean architecture. I am constantly learning and staying up-to-date with the latest technologies to improve my skills.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MubasherKhan9170&show_icons=true&locale=en" alt="MubasherKhan9170" /></p>
+- 🌱 I’m currently mastering **Jetpack Compose** and exploring **Kotlin Multiplatform (KMP)**.
+- 🛠️ I specialize in **Android app development** using modern tools and frameworks.
+- 💬 Ask me about anything Android-related, I'd love to help!
+- 📫 How to reach me **mubasher9170@gmail.com**
+- ⚡ Fun fact **playing by programming on the keyboard and lough**
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <!-- Android -->
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </a>
+  <!-- Kotlin -->
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+  </a>
+  <!-- Firebase -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <!-- React Native -->
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react-native" width="40" height="40"/>
+  </a>
+  
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MubasherKhan9170&show_icons=true&theme=tokyonight" alt="MubasherKhan9170" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MubasherKhan9170&theme=tokyonight" alt="MubasherKhan9170" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MubasherKhan9170&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MubasherKhan9170" />
+</p>
+
+---
+
+### 📱 My Published Apps
+
+Here are some of the Android apps I've developed and published:
+
+- **DaoLingo - Language Translator app**  
+  <!--<a href="https://play.google.com/store/apps/details?id=your.package.name" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Play-Available-brightgreen?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Store"/>
+  </a>-->
+  <a href="https://www.amazon.com/gp/product/B0D4F18BCK" target="_blank">
+    <img src="https://img.shields.io/badge/Amazon%20Appstore-Available-orange?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Appstore"/>
+  </a>
+  
+  Description: Translate any language instantly with our translation app. Easy and fast!
+  Features:
+  - Instant Text Translation
+  - Voice Translation
+  - Camera Translation
+  - Chat Translation
+
+
