@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **MubasherKhan9170/MubasherKhan9170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,11 +18,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MubasherKhan9170&label=Profile%20views&color=0e75b6&style=flat" alt="MubasherKhan9170" /> </p>
 
-- 🔭 I’m currently work as Android Developer and flutter freelancer
+- 🔭 I’m currently working as a Mobile Application Engineer
 
-- 🌱 I've 4+ years of **self learning and work**
+- 🌱 I've 4+ years of **self learning and professional work experience**
 
-- 🎯 I’m currently focusing on: **Jetpack compose, Kotlin Multiplatform and Canvas, ⭐️ star the projects if you like it 🤩.**
+- 🎯 I’m currently focusing on: **Jetpack compose, Kotlin Multiplatform and Product Management, ⭐️ star the projects if you like it 🤩.**
 
 - 📫 How to reach me **mubasher9170@gmail.com**
 
@@ -43,6 +41,6 @@ Here are some ideas to get you started:
 <a href="https://www.jetbrains.com/idea/" target="_blank">  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA logo" width="40"height="40"/> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amnah44&show_icons=true&locale=en&layout=compact" alt="amnah44" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MubasherKhan9170&show_icons=true&locale=en&layout=compact" alt="MubasherKhan9170" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amnah44&show_icons=true&locale=en" alt="amnah44" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MubasherKhan9170&show_icons=true&locale=en" alt="MubasherKhan9170" /></p>
