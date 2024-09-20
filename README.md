@@ -21,6 +21,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/muhammad-mubashar-khan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Mubashar%20Khan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
+  <a href="https://mubasherkhan9170.github.io/muhammadmubasharkhan.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-My%20Portfolio%20Link-green?style=for-the-badge&logo=website" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
